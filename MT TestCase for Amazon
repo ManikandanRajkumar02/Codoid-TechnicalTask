@@ -1,0 +1,13 @@
+Verify the account login with valid/invalid Username and password.
+Verify the amazon name and logo is shown.
+Verify the username displayed on the home page after login.
+Verify the featured products displayed on the home screen or not.
+Verify that when user clicks the product, user should redirect to the product specification page.
+Verify the search field accepts the alphabet, numbers and symbols.
+Verify that the images of the product displayed correctly or not.
+Verify that the user should be able to search the product based on product name, brand name.
+Verify that user can able to filter the product based on colour, brand name, reviews and availability of the product.
+Verify that the payment options like cash on delivery and online payment is available or not.
+Verify that the user can countinue shopping after adding the product to the cart.
+Verify the address box accepts both alphabet and numerical value.
+Verify the pincode box accepts only numerical value.
